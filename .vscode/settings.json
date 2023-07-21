@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "appbar"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+}
